@@ -1,21 +1,21 @@
 [
     {
-        "source": -10012345678,
-        "destination": [-10098765432, -10012345678]
+        "source": -1002095965042,
+        "destination": [-1002213130366, -1002213130366]
     },
     {
-        "source": -10098765432,
-        "destination": [-10012345678, "-10012345678#98765"],
+        "source": -1002095965042,
+        "destination": [-1002213130366, "-1002213130366"],
         "filters": ["word1", "word2"]
     },
     {
-        "source": -10087654321,
-        "destination": [-10033333333],
+        "source": -1002095965042,
+        "destination": [-1002213130366],
         "blacklist": ["word3", "word4"]
     },
     {
-        "source": -10087654321,
-        "destination": [-10033333333],
+        "source": -1002095965042,
+        "destination": [-1002213130366],
         "filters": ["word5"],
         "blacklist": ["word6"]
     }
